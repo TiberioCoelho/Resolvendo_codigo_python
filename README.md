@@ -3,7 +3,7 @@
 com o chartGpt, mostrarei como a pesquisa do programador mudou radicalmente de pesquisado de páginas web para ser servido com resultados 
 incrivelmente mastigados.</h2> 
 <h3>Fiz uma pergunta? Conexao com banco de dados no Mysql com Python com os campos matricula, nome e cpf.</h3>
-Resultado:<br>
+<B>Resultado:</B><br>
 pip install mysql-connector-python
 <br>
 <B>Estrutura da tabela no MySQL</B>
